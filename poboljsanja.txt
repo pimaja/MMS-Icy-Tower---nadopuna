@@ -1,0 +1,11 @@
+
+Kao moguæa poboljšanja projekta navela bih:
+ 
+- omoguæavanje gašenja glazbe te smanjivanje/pojaèavanje glasnoæe glazbe
+
+- implementaciju kretanja zvjezdica kod combo pokreta ili prilikom dolaska na svaku 50. platformu tako da izgleda
+	kao u originalnoj igri
+
+- omoguæavanje reskaliranja igre na cijeli zaslon raèunala
+
+- podešavanje brzine kretanja platformi da bude u skladu s brzinom kojom igraè igra 
