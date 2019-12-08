@@ -1,0 +1,12 @@
+Highest combo
+1 205 111 bbb
+2 208 104 bbb
+3 119 95 bbb
+4 324 85 zvo
+5 139 67 AAA
+Highest floor
+1 324 85 zvo
+2 276 50 mmm
+3 208 104 bbb
+4 205 111 bbb
+5 203 67 kmv
